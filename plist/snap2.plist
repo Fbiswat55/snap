@@ -2,53 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://archive.org/download/yousef-snap-2-1/YousefSnap2%281%29.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>رابط الصوره</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>رابط الصوره</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>Snapchat2</string>
-				<key>bundle-version</key>
-				<string>11.70.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-				<string>made.by.yousef</string>
-				<key>title</key>
-				<string>(Snapchat2)
-@80.b0 Yousef 
-
-INSTA : @80.b0
-
-</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://up-ipa.xyz/share/eVcW96TFP9KE5hy7/direct</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.byyy.yousef</string>
+<key>bundle-version</key>
+<string>1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>SnapChat2</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
